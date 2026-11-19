@@ -39,7 +39,6 @@ Working with the Networkwalks Hash Calculator to extract password hashes from en
 | Program/Batch | B084D |
 | Week | Week 03 |
 | Operating System | Kali Linux |
-| Virtualization | Oracle VirtualBox |
 | Primary Tool | John the Ripper |
 | Hash Extraction Tool | Networkwalks Hash Calculator |
 | Comparison Tool | Networkwalks Comparison Tool |
